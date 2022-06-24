@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here are some things about:
 
 - 🔭 I’m currently working on Proz
 - 🌱 I’m currently learning JavaScript

@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+### t👋
 
 Here are some things about:
 
@@ -11,5 +9,6 @@ Here are some things about:
 - 💬 Ask me about HTML, CSS & PhP
 - 📫 How to reach me: https://www.linkedin.com/in/vagnergodoydemelo/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I was bitten by a big rat
+- ⚡ Fun fact: I was bitten by a big rat 🐀
+
 
